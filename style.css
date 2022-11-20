@@ -82,16 +82,6 @@ p {
     color: crimson;
 }
 
-.brand h2 {
-    font-size: 3rem;
-    text-transform: uppercase;
-    color: white;
-}
-
-.brand h2 span {
-    color: crimson;
-}
-
 /* Header Section */
 #header {
     position: fixed;
